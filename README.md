@@ -11,20 +11,18 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Carlos Schenone, and I am in my last semester of the Management Information Systems (MISM) program. I am passionate about transforming complex data into intuitive and impactful visualizations. My goal is to inspire and assist decision-makers across various organizations by presenting data in a way that is both insightful and accessible.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+A few months ago, I subscribed to a newsletter called 'Chartr | Data Storytelling' and began receiving emails featuring beautiful visualizations, like this one: ![Alt text](chartR_Spotify.png)
 
-1. List item #1
-2. List item #2
-3. List item #3
+Then, I discovered this course and didn't hesitate; I decided to enroll to learn the following:
 
-or...
+1) how to present complex data in an entertaining and stimulating way.
+2) how to build color criteria
+3) better understand the use of different digital tools
 
-- List item #1
-- List item #2
-- List item #3
+My aim is to engage my audience effectively, create impact, and also to distinguish myself while building a personal brand.
 
 # Portfolio
 
