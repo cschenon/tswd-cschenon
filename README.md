@@ -20,9 +20,9 @@ A few months ago, I subscribed to a newsletter called 'Chartr | Data Storytellin
 
 Then, I discovered this course and didn't hesitate; I decided to enroll to learn the following:
 
-1) how to present complex data in an entertaining and stimulating way.
-2) how to build color criteria
-3) better understand the use of different digital tools
+1. how to present complex data in an entertaining and stimulating way.
+2. how to build color criteria
+3. better understand the use of different digital tools
 
 My aim is to engage my audience effectively, create impact, and also to distinguish myself while building a personal brand.
 
