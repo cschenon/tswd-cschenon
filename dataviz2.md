@@ -1,6 +1,6 @@
 **Bar Chart**
 
-The first graph is a bar chart displaying the government debt-to-GDP ratio, sourced from https://data.oecd.org/, which presents data for a selection of countries from 2019 to 2022. Countries such as Chile, Latvia, Mexico, Germany, Australia, South Africa, Colombia, Spain, Brazil, the USA, and Italy are depicted in various colors, while the OECD average is shown in black as a reference.
+The first graph is a bar chart displaying the government debt-to-GDP ratio, sourced from https://data.oecd.org/. It presents the latest data for a selection of countries from the year 2022 or the most recent available year. Countries such as Chile, Latvia, Mexico, Germany, Australia, South Africa, Colombia, Spain, Brazil, the USA, and Italy are depicted in various colors, with the OECD average shown in black as a reference. The labels on the x and y axes are not explicitly defined. However, based on the title, we can infer that the y-axis represents the total government debt as a percentage of the GDP, and the x-axis lists the countries.
 
 <iframe src="https://data.oecd.org/chart/7klO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7klO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
