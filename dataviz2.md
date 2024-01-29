@@ -30,3 +30,6 @@ The third graph is a line chart showing the debt-to-GDP ratios for the same coun
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+**Summary**
+I chose the trend line chart because when comparing how years evolve over a period of time, it's easier to grasp this progression through a line trend rather than a heatmap. The bar chart presented initially is effective for showing a country's position at a specific moment, while the heatmap is great for conveying an overall sense of which countries are performing well and which are underperforming. However, to illustrate trends and the evolution of specific countries, the trend line is the best method for storytelling about selected countries. That's why I chose only two for emphasis and placed the rest in a secondary layer, colored grey.
