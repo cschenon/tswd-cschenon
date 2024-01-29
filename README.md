@@ -1,4 +1,4 @@
-| [home page](https://github.com/cschenon/tswd-cschenon/) | [Visualizing government Debt](dataviz2.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cschenon.github.io/tswd-cschenon/) | [Visualizing government Debt](dataviz2.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
