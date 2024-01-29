@@ -32,7 +32,7 @@ My aim is to engage my audience effectively, create impact, and also to distingu
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing government Debt](dataviz2)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This report features three distinct visualizations of government debt-to-GDP ratios, sourced from the OECD database, to analyze trends from 1995 to 2022. The first, a bar chart, illustrates individual country data against the OECD average. The second, a heatmap, displays the spectrum of debt levels over time with color gradations. The third, a line chart, specifically highlights Japan and Greece's rising debt trends, providing a focused narrative on their fiscal trajectories. Each graph utilizes a tailored color scheme to enhance interpretability and emphasize key data points, offering a clear depiction of the debt landscape across selected nations. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
