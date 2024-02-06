@@ -80,11 +80,14 @@ I do believe that the original stacked bar chart could be significantly improved
 
 <u>This is the sketch of the stacked bar chart:</u>
 ![Stacked Bar](stacked bar.png)
+![Global-EV-market-share-Q3-2023](Global-EV-market-share-Q3-2023.png)
 
+So, here I retained the original graph idea but with modifications: I inverted the distribution, placing "Others" at the top and "Tesla" at the bottom, followed by BYD, then VW. I also experimented with a different approach to presenting the quarters, instead of just showing the complete year and quarter information below. Additionally, I believe that placing the legend on the right, instead of keeping it below, could enhance the visualization.
 
 <u>This is the sketch of the trend line graph:</u>
 ![Trend Line](trendline.png)
 
+Here, I experimented with a completely different approach to effectively show the trend quarter by quarter and give the audience a better sense of what is happening. In the stacked bar chart, it still requires some effort (and time) to visualize which brand is gaining market share and which one is not. I also maintained the idea of placing the legend on the right.
 
 **Step four: Test the solution**
 
