@@ -28,6 +28,7 @@ Also, instead of repeating the years (e.g., 2021, 2022, 2023) for every quarter,
 If choosing to completely change the chart, I would opt for a trend line to compare the evolution of the different brands, and at the end of the trend, on the right edge of the lines, I would place the logo of each brand, thus eliminating the need for a legend with the brands below the chart. However, I am not sure if I will be able to do this edition in Tableu (the logo insertion).
 
 <u>What I did like about the chart:</u>
+
 Something I did like about the chart was that it did not make excessive use of outlines or lines in the charts, it just presented the colors, and the percentages could be clearly visualized. Also, the space between the bars seemed clear and aesthetic.
 
 Therefore, I rated the chart in the following way:
