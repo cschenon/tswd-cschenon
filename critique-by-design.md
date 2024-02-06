@@ -3,9 +3,11 @@
 # Critique by Design with Tableau (MakeoverMonday)
 
 **Step one: choose a data visualization from MakeoverMonday**
+
 I selected the "Global Electric Vehicle Market Share" visualization from the https://makeovermonday.co.uk/ website, created by Counterpoint Research on February 13, 2023. I chose this because the electric vehicle (EV) market is garnering public interest due to its environmental impact and the disruptive innovations it brings. Additionally, upon viewing the graph, I immediately saw how it could be improved. I struggled to understand it at first glance, something that could have been mitigated with a better design.
 
 **Step two: critique the data visualization**
+
 Below is the graph on which I will be sharing my observations:
 ![Global-EV-market-share-Q3-2023](Global-EV-market-share-Q3-2023.png)
 
@@ -31,34 +33,43 @@ Something I did like about the chart was that it did not make excessive use of o
 Therefore, I rated the chart in the following way:
 
 <u>Completeness:</u> 6
+
 While the visualization includes essential data on market share percentages, it lacks completeness due to the absence of market growth data and a clear context for the percentages. It seems it was the only data available for the developer of this viz.
 
 <u>Perceptibility:</u> 6
+
 The visualization's use of color and the distribution of data points make it relatively easy for the reader to understand the market share information at a glance. However, placing the "Others" category at the bottom makes analyzing the EV companies we want to focus on more challenging. A trend line would provide a clearer, more intuitive comparison over time. Additionally, having the legend at the bottom causes the reader's eye to move up and down frequently.
 
 <u>Truthfulness:</u> 7
+
 The data is presented accurately and reliably. However, the lack of context regarding the total market size and growth may lead to a somewhat incomplete representation of the market dynamics.
 
 <u>Intuitiveness:</u> 6
+
 The chart is somewhat intuitive, with colors representing different companies based on their brand’s colors and clear labeling.
 
 
 <u>Effectiveness of the Visualization in Reaching Its Audience</u>
+
 The audience can be quite diverse, ranging from financial analysts and market researchers to consultants and students. I believe the information is presented in a positive manner, but there is considerable room for improvement. For example, for any of the audiences described above, showing only the market share percentages might be somewhat limited information. Displaying percentages alone is not always sufficient; it's always beneficial to provide a reference point to understand whether 10% of 100 is truly better than 50% of 10. However, I know that this information was unavailable. The visualization is aesthetically pleasing because it follows visualization principles such as maintaining a gray color for the “others” section and incorporating only three of the main brands with different colors. However, there is still room for improvement in the use of colors and their distribution. Even the choice of chart style can be improved because if the goal is to show evolution, a trend line might convey a more powerful message. In conclusion, I feel the visualization is effective but I would give it a medium, not excellent, score.
 
 Therefore, I rated the chart in the following way:
 
 <u>Aesthetics:</u> 5
+
 The viz does not make excessive use of outlines or lines and presents the information in a clean manner, however, there's significant room for improvement in color choice and distribution. The visualization is aesthetically pleasing because it follows visualization principles such as maintaining a gray color for the “others” section and incorporating only three of the main brands with different colors. However, there is still room for improvement in the use of colors and their distribution. Even the choice of chart style can be improved because if the goal is to show evolution, a trend line might convey a more powerful message.
 
 <u>Usefulness:</u> 6
+
 The visualization is useful for its intended audience, which includes financial analysts, market researchers, consultants, and students. However, the lack of market value context limits its usefulness, as it does not provide a complete picture of the market size or growth, which is crucial for making informed decisions. When I jumped into the data source, I saw that information was not available, so I couldn't use it either in my proposed graph idea.
 
 <u>Engagement:</u> 5
+
 The visualization's current state might not fully engage the audience, as it lacks compelling context and interactive elements that could encourage further exploration or discussion of the data.
 
 
 <u>Final thoughts</u>
+
 The questions helped me focus objectively on the main components to analyze and reflect on whether it is truly doing a good job of overall communication. I was able to evaluate the selection of the chart, colors, distribution, audience, and style. I have already shared my recommendations in the previous questions. However, something I would add is that on the web, below the chart, there are highlights that do not derive from the visualization. For example, the first highlight states: "Global BEV sales grew 29% YoY in Q3 2023", yet we have no way of knowing that from the visualization, since it only shows the percentages of how the brands' shares were distributed within the 100% of that quarter. As a final thought I want to share that I have two different visualizations in mind to improve this, once is a better version of the stacked bar graph, and the other is a trend line.
 
 **Step three: sketch out a solution**
