@@ -11,6 +11,7 @@ Below is the graph on which I will be sharing my observations:
 
 
 <u>Overall Observations About the Data Visualization</u>
+
 <u>The first thing that caught my attention:</u>
 The first thing that caught my attention about the visualization was the colors they chose. At first, I didn't understand why they had chosen two shades of red and then blue, but after a few minutes, I realized that they used these colors in reference to the predominant color in the logos of these companies: Tesla, BYD, and Volkswagen.
 Another thing that caught my attention was the fact that, due to the nature of the chart and how the information was presented, the article aims to show the evolution of the Market Share for each quarter of the 3 main companies that manufacture EVs; however, the "Others" section in the chart is placed at the bottom, which makes comparison difficult since the bottom part of the chart always helps to take it as a point of reference to then easily evaluate whether the proportions are improving or not. Therefore, you place the key element at the bottom, not the “others” element. Another thing that caught my attention was that Tesla was in the center of the chart and not in the bottom section, being the brand with the highest volume in the first quarter.
@@ -29,16 +30,16 @@ Something I did like about the chart was that it did not make excessive use of o
 
 Therefore, I rated the chart in the following way:
 
-Completeness: 6
+<u>Completeness:</u> 6
 While the visualization includes essential data on market share percentages, it lacks completeness due to the absence of market growth data and a clear context for the percentages. It seems it was the only data available for the developer of this viz.
 
-Perceptibility: 6
+<u>Perceptibility:</u> 6
 The visualization's use of color and the distribution of data points make it relatively easy for the reader to understand the market share information at a glance. However, placing the "Others" category at the bottom makes analyzing the EV companies we want to focus on more challenging. A trend line would provide a clearer, more intuitive comparison over time. Additionally, having the legend at the bottom causes the reader's eye to move up and down frequently.
 
-Truthfulness: 7
+<u>Truthfulness:</u> 7
 The data is presented accurately and reliably. However, the lack of context regarding the total market size and growth may lead to a somewhat incomplete representation of the market dynamics.
 
-Intuitiveness: 6
+<u>Intuitiveness:</u> 6
 The chart is somewhat intuitive, with colors representing different companies based on their brand’s colors and clear labeling.
 
 
@@ -47,13 +48,13 @@ The audience can be quite diverse, ranging from financial analysts and market re
 
 Therefore, I rated the chart in the following way:
 
-Aesthetics: 5
+<u>Aesthetics:</u> 5
 The viz does not make excessive use of outlines or lines and presents the information in a clean manner, however, there's significant room for improvement in color choice and distribution. The visualization is aesthetically pleasing because it follows visualization principles such as maintaining a gray color for the “others” section and incorporating only three of the main brands with different colors. However, there is still room for improvement in the use of colors and their distribution. Even the choice of chart style can be improved because if the goal is to show evolution, a trend line might convey a more powerful message.
 
-Usefulness: 6
+<u>Usefulness:</u> 6
 The visualization is useful for its intended audience, which includes financial analysts, market researchers, consultants, and students. However, the lack of market value context limits its usefulness, as it does not provide a complete picture of the market size or growth, which is crucial for making informed decisions. When I jumped into the data source, I saw that information was not available, so I couldn't use it either in my proposed graph idea.
 
-Engagement: 5
+<u>Engagement:</u> 5
 The visualization's current state might not fully engage the audience, as it lacks compelling context and interactive elements that could encourage further exploration or discussion of the data.
 
 
