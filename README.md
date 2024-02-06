@@ -28,7 +28,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 This report features three distinct visualizations of government debt-to-GDP ratios, sourced from the OECD database, to analyze trends from 1995 to 2022. The first, a bar chart, illustrates individual country data against the OECD average. The second, a heatmap, displays the spectrum of debt levels over time with color gradations. The third, a line chart, specifically highlights Japan and Greece's rising debt trends, providing a focused narrative on their fiscal trajectories. Each graph utilizes a tailored color scheme to enhance interpretability and emphasize key data points, offering a clear depiction of the debt landscape across selected nations. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Here, I present my critique and design proposal for the Global Passenger Electric Vehicle Market Share visualization from the MakeoverMonday website. I guide you through my thought process during the selection of the data visualization from MakeoverMonday, my critique using Stephen Few's Data Visualization Effectiveness Profile framework, sketching my solution, how I tested it, and how I ultimately built it.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
