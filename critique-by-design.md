@@ -91,7 +91,22 @@ Here, I experimented with a completely different approach to effectively show th
 **Step four: Test the solution**
 
 
+I presented my sketches to two different students in their mid-20s and asked them the following questions: Can you tell me what you think this is?, Can you describe to me what this is telling you?, Is there anything you find surprising or confusing?, Who do you think is the intended audience for this?, Is there anything you would change or do differently?
+
+
+After presenting both sketches, I realized that I had forgotten to incorporate a title in my sketches (both of them). Therefore, they didn't know exactly what I was trying to show at first. However, because the legend included car names, they could sort of figure it out. This "error" gave me the opportunity to actually realize that the original title of the graph was not ideal as it didn't show what was really happening. It said: "Global Passenger Electric Vehicle Market Share, Q4 2021 - Q3 2023," which could give the impression that it is something static, when it is not. So, I incorporated the word "trend" in my title and suggested some changes: "Global Market Share Trends in Electric Passenger Vehicles from Q4 2021 to Q3 2023." We also discussed with the students whether it was a good idea to use the car brand colors. One of the students told me that it was better not to use them since two car brands had red-like color logos: "Tesla" and "BYD", and that it could be better to use other colors that can differentiate better.
+
+
+On the trend line graph, one of the students didn't like the idea of the vertical lines that were identifying each quarter; he suggested to me to remove it. I decided to follow his advice. The other student suggested placing the legend at the bottom, however, I decided to keep the legend on the right, since I find it more convenient as the natural movement of our eyes is from top left to top right.
+
+With these valuable inputs, I jumped into Tableau to build the two graphs.
+
+
 **Step five: Build your solution**
 
 
+<u>This is the new stacked bar chart version:</u>
 
+
+
+<u>This is the new trend line graph version:</u>
