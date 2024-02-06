@@ -75,6 +75,16 @@ The questions helped me focus objectively on the main components to analyze and 
 
 **Step three: sketch out a solution**
 
+I do believe that the original stacked bar chart could be significantly improved. Additionally, considering that multiple quarters were shown over a timeline, presenting the data in a trend line could also have been impactful. Therefore, I decided to sketch these two possible variations: a stacked bar chart and a trend line. I applied all the ideas that came to me during step 2 after examining the original graph and the context of the webpage for several minutes.
+
+
+<u>This is the sketch of the stacked bar chart:</u>
+![Stacked Bar](stacked bar.png)
+
+
+<u>This is the sketch of the trend line graph:</u>
+![Trend Line](trendline.png)
+
 
 **Step four: Test the solution**
 
