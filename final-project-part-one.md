@@ -4,13 +4,29 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+- **Introduction: The Evolution of Chess as a Competitive Sport**  
+  Just like any other sport, Chess is continuously evolving. Similar to how records in the 100-meter dash are broken almost every Olympics, chess experiences its own form of progress with ELO rankings reaching new heights over time.  
+  (Visual: Show ELO ratings evolution)
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+- **Increasing Popularity**  
+  Chess is also becoming increasingly popular, as evidenced by the following trends.  
+  (Visual: Show the number of GMs per year)  
+  (Visual: Show the subscription growth of chess YouTubers)
 
-Text here...
+- **The Impact of Technology on Chess**  
+  Technology has significantly altered the landscape of chess. AI has achieved levels of play that are extremely challenging for humans to match, as illustrated in the following ELO comparison.  
+  (Visual: Show ELO averages between GMs and machines in the last 10 years)
+
+- **The Rise of Young Prodigies**  
+  With easier access to technology, the game is not just changing; it's also facilitating the emergence of new, young prodigies.  
+  (Visual: Show the number of GMs by the age at which they obtained the title, e.g., 13 yo, 14 yo, 15 yo, etc.)
+
+- **Conclusion: Embracing Technology**  
+  It's enlightening to observe how new generations are leveraging technology to enhance their gameplay. Instead of viewing technology as a foe, embracing it as a tool can elevate your game to new heights.
+
+- **Story Arc**
+
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
