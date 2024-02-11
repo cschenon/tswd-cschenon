@@ -49,8 +49,11 @@ Illustrate how, annually, an increasing number of children attain Grandmaster st
 I've been exploring sources for obtaining data and have come across some datasets on the Kaggle page, as shown here:
 
 https://www.kaggle.com/datasets/aryaman1a/top-chess-players-in-the-world
+
 https://www.kaggle.com/code/arindambaruah/who-is-dominating-women-s-chess/input
+
 https://www.kaggle.com/datasets/rishabh6377/worlds-chess-grandmasters-data
+
 
 I plan to upload the data into Tableau to experiment with it and determine the best visualization options for the story I intend to tell. I will include the source of my information below each graph. Additionally, I've found some copyright-free images on Pexels that could enhance my storytelling, such as the following image: 
 https://www.pexels.com/photo/white-chess-piece-on-top-of-chess-board-814133/
