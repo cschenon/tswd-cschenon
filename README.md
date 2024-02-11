@@ -33,9 +33,10 @@ Here, I present my critique and design proposal for the Global Passenger Electri
 ## Final project
 My final project explores the evolution of chess and how the emergence of AI is transforming the game, potentially unlocking new capabilities for future generations of players. 
 ![Chess Pieces on Board](pexels-sk-814133.jpg)
+Source: https://www.pexels.com/photo/white-chess-piece-on-top-of-chess-board-814133/
 
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
