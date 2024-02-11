@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 - **Introduction: The Evolution of Chess as a Competitive Sport**  
   Just like any other sport, Chess is continuously evolving. Similar to how records in the 100-meter dash are broken almost every Olympics, chess experiences its own form of progress with ELO rankings reaching new heights over time.  
