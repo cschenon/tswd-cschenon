@@ -33,8 +33,7 @@
 - **Introduction: The Evolution of Chess as a Competitive Sport**
   
 Visualization depicting the evolution of the competitive landscape, illustrating the improvement in ELO ratings (currently, the world champion boasts a peak ELO rating of approximately 2830, previous WRs has ELOs around 2700s)
-<img src="competitive.jpeg" alt="competitive landscape" width="50%" />
-
+![competitive](competitive.jpeg)
 
 - **Increasing Popularity**
 Visualization illustrating the growing interest in chess, evidenced by an increasing number of Grandmasters worldwide each year and a surge in followers of chess-related video streaming on YouTube. Additionally, my storytelling could highlight how pandemic lockdowns across various countries have contributed to a rise in chess participation.
@@ -42,12 +41,11 @@ Visualization illustrating the growing interest in chess, evidenced by an increa
 
 - **The Impact of Technology on Chess**
 Visualization demonstrating how AI-powered chess engines, like Stockfish, achieve unprecedented ELO ratings due to the precision of their gameplay, and comparing these with the peak human ELO to underscore the significant difference for my audience.
-<img src="ai.jpeg" alt="AI in chess" width="50%" />
+![ai](ai.jpeg)
 
 - **The Rise of Young Prodigies**
 Illustrate how, annually, an increasing number of children attain Grandmaster status, underscoring the pivotal role of technology in improving educational and training environments.
-
-<img src="age.jpeg" alt="Young prodigies" width="50%" />
+![age](age.jpeg)
 
 
 # The data
