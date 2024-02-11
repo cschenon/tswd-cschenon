@@ -29,9 +29,25 @@
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+- **Introduction: The Evolution of Chess as a Competitive Sport**
+  
+Visualization depicting the evolution of the competitive landscape, illustrating the improvement in ELO ratings (currently, the world champion boasts a peak ELO rating of approximately 2830, previous WRs has ELOs around 2700s)
+![competitive](images/competitive.jpeg)
+
+- **Increasing Popularity**
+Visualization illustrating the growing interest in chess, evidenced by an increasing number of Grandmasters worldwide each year and a surge in followers of chess-related video streaming on YouTube. Additionally, my storytelling could highlight how pandemic lockdowns across various countries have contributed to a rise in chess participation.
+![popularity](images/popularity.jpeg)
+
+- **The Impact of Technology on Chess**
+Visualization demonstrating how AI-powered chess engines, like Stockfish, achieve unprecedented ELO ratings due to the precision of their gameplay, and comparing these with the peak human ELO to underscore the significant difference for my audience.
+![ai](images/ai.jpeg)
+
+- **The Rise of Young Prodigies**
+Illustrate how, annually, an increasing number of children attain Grandmaster status, underscoring the pivotal role of technology in improving educational and training environments.
+
+![age](images/age.jpeg)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
