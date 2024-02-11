@@ -49,19 +49,16 @@ Illustrate how, annually, an increasing number of children attain Grandmaster st
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I've been exploring sources for obtaining data and have come across some datasets on the Kaggle page, as shown here:
 
-Text here...
+https://www.kaggle.com/datasets/aryaman1a/top-chess-players-in-the-world
+https://www.kaggle.com/code/arindambaruah/who-is-dominating-women-s-chess/input
+https://www.kaggle.com/datasets/rishabh6377/worlds-chess-grandmasters-data
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I plan to upload the data into Tableau to experiment with it and determine the best visualization options for the story I intend to tell. I will include the source of my information below each graph. Additionally, I've found some copyright-free images on Pexels that could enhance my storytelling, such as the following image: 
+https://www.pexels.com/photo/white-chess-piece-on-top-of-chess-board-814133/
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+I plan to incorporate these types of images to enrich the narrative.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use Tableau and ArcGIS Story Maps to tell my story. Although I still need to research how to use these tools effectively, I am confident that I will be able to create compelling storytelling and make a significant impact on my audience.
