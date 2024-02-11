@@ -25,7 +25,7 @@
   It's enlightening to observe how new generations are leveraging technology to enhance their gameplay. Instead of viewing technology as a foe, embracing it as a tool can elevate your game to new heights.
 
 - **Story Arc**
-
+![Story Arc](timeline.jpeg)
 
 
 ## Initial sketches
