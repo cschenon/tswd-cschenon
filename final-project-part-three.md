@@ -1,9 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-Link to my final data story on Shorthand: https://carnegiemellon.shorthandstories.com/renaissance-of-chess/index.html 
+[Link to my final data story on Shorthand](https://carnegiemellon.shorthandstories.com/renaissance-of-chess/index.html)
 
-However, after publishing it for an hour already, I don't see that the Tableau graphs are rendering, so I will also share the preview link here: https://preview.shorthand.com/BkR9PVc1BExR65OX
+However, after publishing it for an hour already, I noticed that the Tableau graphs are not rendering, so I will also share the preview link here: [https://preview.shorthand.com/BkR9PVc1BExR65OX](https://preview.shorthand.com/BkR9PVc1BExR65OX)
 
 The story is about: The Renaissance of Chess in the Digital Age
 In 2020, chess experienced a resurgence in popularity due to the COVID-19 lockdowns and the release of 'The Queen's Gambit' on Netflix. This renewed interest led people to online platforms and YouTube channels like GothamChess for learning and entertainment. Despite the challenge of becoming a Grandmaster, requiring an ELO of 2,500, the number of Grandmasters has increased, showcasing the game's growing appeal.
