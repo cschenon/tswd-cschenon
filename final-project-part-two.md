@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 > Based on the sketches I developed last week and the feedback received from my classmates during our Wednesday class session, I have enhanced the story with new elements. The narrative now concludes with a bold, compelling ending and a clear action plan. You can view this updated version at the following [Shorthand link](https://preview.shorthand.com/BkR9PVc1BExR65OX).
