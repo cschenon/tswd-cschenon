@@ -22,9 +22,6 @@ My aim is to engage my audience effectively, create impact, and also to distingu
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing government Debt](dataviz2)
 This report features three distinct visualizations of government debt-to-GDP ratios, sourced from the OECD database, to analyze trends from 1995 to 2022. The first, a bar chart, illustrates individual country data against the OECD average. The second, a heatmap, displays the spectrum of debt levels over time with color gradations. The third, a line chart, specifically highlights Japan and Greece's rising debt trends, providing a focused narrative on their fiscal trajectories. Each graph utilizes a tailored color scheme to enhance interpretability and emphasize key data points, offering a clear depiction of the debt landscape across selected nations. 
 
