@@ -1,4 +1,4 @@
-| [home page](README) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
 - **Introduction: The Evolution of Chess as a Competitive Sport**  
