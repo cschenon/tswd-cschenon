@@ -5,6 +5,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 Hi! My name is Carlos Schenone, and I am in my last semester of the Management Information Systems (MISM) program. I am passionate about transforming complex data into intuitive and impactful visualizations. My goal is to inspire and assist decision-makers across various organizations by presenting data in a way that is both insightful and accessible.
+![Me](me_2024_v2.jpg)
 
 # What I hope to learn
 A few months ago, I subscribed to a newsletter called 'Chartr | Data Storytelling' and began receiving emails featuring beautiful visualizations, like this one:
